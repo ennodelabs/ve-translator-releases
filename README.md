@@ -5,7 +5,7 @@ Công cụ dịch chat Hàn / Anh / Việt cho diễn họa kiến trúc của *
 **Tải về:** [VE-Translator-Setup.exe](https://github.com/ennodelabs/ve-translator-releases/releases/latest/download/VE-Translator-Setup.exe) (bản mới nhất)
 
 - Cần **license key** cho từng máy: Setup hiện *mã máy*, gửi mã đó cho Visual Ennode để nhận key.
-- Setup tải và cài bản mới nhất (khoảng 1.1 GB), không cần quyền Admin. Máy đã cài tự nhận thông báo cập nhật.
+- Setup tải và cài bản mới nhất (khoảng 1.6 GB: ứng dụng + model dịch; thêm Ollama nếu máy chưa có), không cần quyền Admin. Máy đã cài tự nhận thông báo cập nhật.
 - Windows có thể báo "Windows protected your PC": bấm *More info* › *Run anyway*.
 
 Repo này chỉ chứa file phát hành (không có mã nguồn). Mỗi bản phát hành có `update.json` được ký số; VE Translator chỉ nhận bản cập nhật có chữ ký hợp lệ.
